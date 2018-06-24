@@ -1,0 +1,24 @@
+{
+  "name": "schsrch-dl",
+  "version": "0.1.0",
+  "description": "Command-line utility program to download resources from schsrch.",
+  "bin": {
+    "schsrch-dl": "bin/schsrch-dl.js"
+  },
+  "scripts": {
+    "main": "node bin/schsrch-dl.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FICTURE7/schsrch-dl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FICTURE7/schsrch-dl/issues"
+  },
+  "homepage": "https://github.com/FICTURE7/schsrch-dl#readme",
+  "author": "FICTURE7",
+  "license": "MIT",
+  "dependencies": {
+    "schsrch-js": "file:lib"
+  }
+}
