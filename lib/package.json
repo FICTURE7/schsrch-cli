@@ -1,19 +1,19 @@
 {
   "name": "schsrch-js",
   "version": "0.1.0",
-  "description": "An schsrch API client.",
+  "description": "An SchSrch API client.",
   "main": "index.js",
   "scripts": {
 
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/FICTURE7/schsrch-dl.git"
+    "url": "https://github.com/FICTURE7/schsrch-cli.git"
   },
   "bugs": {
-    "url": "https://github.com/FICTURE7/schsrch-dl/issues"
+    "url": "https://github.com/FICTURE7/schsrch-cli/issues"
   },
-  "homepage": "https://github.com/FICTURE7/schsrch-dl#readme",
+  "homepage": "https://github.com/FICTURE7/schsrch-cli#readme",
   "author": "FICTURE7",
   "license": "MIT"
 }
