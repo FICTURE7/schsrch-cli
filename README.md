@@ -1,5 +1,8 @@
 ## schsrch-dl
-Command-line utility program to download resources from [schsrch](https://schsrch.xyz/).
+Command-line utility program to download resources from [SchSrch](https://schsrch.xyz/).
 
-#### License
+#### NOTE
+This is still a work in progress thing.
+
+### License
 MIT License
