@@ -1,7 +1,7 @@
 {
   "name": "schsrch-js",
   "version": "0.1.0",
-  "description": "An SchSrch API client.",
+  "description": "A SchSrch API client.",
   "main": "index.js",
   "scripts": {
 
