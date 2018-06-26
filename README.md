@@ -1,4 +1,4 @@
-## schsrch-dl
+## schsrch-cli
 Command-line utility program to download resources from [SchSrch](https://schsrch.xyz/).
 
 #### NOTE
